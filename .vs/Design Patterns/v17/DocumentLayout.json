@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFE720AB-E32E-432E-A0CA-C54D95BEA6D9}|A- Singleton\\A- Singleton.csproj|c:\\users\\mo kadi\\desktop\\.net course\\design-patterns-.net\\a- singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE720AB-E32E-432E-A0CA-C54D95BEA6D9}|A- Singleton\\A- Singleton.csproj|solutionrelative:a- singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFE720AB-E32E-432E-A0CA-C54D95BEA6D9}|A- Singleton\\A- Singleton.csproj|c:\\users\\mo kadi\\desktop\\.net course\\design-patterns-.net\\a- singleton\\cl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE720AB-E32E-432E-A0CA-C54D95BEA6D9}|A- Singleton\\A- Singleton.csproj|solutionrelative:a- singleton\\cl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB821FC5-93E0-45A6-AEFA-034815913B5F}|D- Factory\\D- Factory.csproj|c:\\users\\mo kadi\\desktop\\.net course\\design-patterns-.net\\d- factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB821FC5-93E0-45A6-AEFA-034815913B5F}|D- Factory\\D- Factory.csproj|solutionrelative:d- factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CL1.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\A- Singleton\\CL1.cs",
-              "RelativeDocumentMoniker": "A- Singleton\\CL1.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\A- Singleton\\CL1.cs",
-              "RelativeToolTip": "A- Singleton\\CL1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:05:54.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\A- Singleton\\Program.cs",
-              "RelativeDocumentMoniker": "A- Singleton\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\A- Singleton\\Program.cs",
-              "RelativeToolTip": "A- Singleton\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\D- Factory\\Program.cs",
+              "RelativeDocumentMoniker": "D- Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Design-patterns-.net\\D- Factory\\Program.cs",
+              "RelativeToolTip": "D- Factory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:01:45.954Z",
+              "WhenOpened": "2024-09-15T16:32:40.728Z",
               "EditorCaption": ""
             }
           ]

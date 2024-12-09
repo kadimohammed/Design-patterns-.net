@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9686D104-8D54-4F39-9E5E-336A11451CEC}|E- Prototype\\E- Prototype.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\e- prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9686D104-8D54-4F39-9E5E-336A11451CEC}|E- Prototype\\E- Prototype.csproj|solutionrelative:e- prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9686D104-8D54-4F39-9E5E-336A11451CEC}|E- Prototype\\E- Prototype.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\e- prototype\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9686D104-8D54-4F39-9E5E-336A11451CEC}|E- Prototype\\E- Prototype.csproj|solutionrelative:e- prototype\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB821FC5-93E0-45A6-AEFA-034815913B5F}|D- Factory\\D- Factory.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\d- factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB821FC5-93E0-45A6-AEFA-034815913B5F}|D- Factory\\D- Factory.csproj|solutionrelative:d- factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9403A1EA-7565-422E-BE4B-B77B79C74DFB}|F- Adapter\\F- Adapter.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\f- adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9403A1EA-7565-422E-BE4B-B77B79C74DFB}|F- Adapter\\F- Adapter.csproj|solutionrelative:f- adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Forme.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\E- Prototype\\Forme.cs",
-              "RelativeDocumentMoniker": "E- Prototype\\Forme.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\E- Prototype\\Forme.cs",
-              "RelativeToolTip": "E- Prototype\\Forme.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T12:08:22.756Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\E- Prototype\\Program.cs",
-              "RelativeDocumentMoniker": "E- Prototype\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\E- Prototype\\Program.cs",
-              "RelativeToolTip": "E- Prototype\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\F- Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "F- Adapter\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\F- Adapter\\Program.cs",
+              "RelativeToolTip": "F- Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T12:06:08.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\D- Factory\\Program.cs",
-              "RelativeDocumentMoniker": "D- Factory\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\D- Factory\\Program.cs",
-              "RelativeToolTip": "D- Factory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T16:32:40.728Z",
+              "WhenOpened": "2024-12-09T12:32:32.746Z",
               "EditorCaption": ""
             }
           ]

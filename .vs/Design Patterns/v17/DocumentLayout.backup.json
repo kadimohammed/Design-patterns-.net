@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9403A1EA-7565-422E-BE4B-B77B79C74DFB}|F- Adapter\\F- Adapter.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\f- adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9403A1EA-7565-422E-BE4B-B77B79C74DFB}|F- Adapter\\F- Adapter.csproj|solutionrelative:f- adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\g- decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|solutionrelative:g- decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\g- decorator\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|solutionrelative:g- decorator\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\g- decorator\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA78A3E-9F6B-4128-915B-75E536D8B96B}|G- Decorator\\G- Decorator.csproj|solutionrelative:g- decorator\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SugarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\SugarDecorator.cs",
+              "RelativeDocumentMoniker": "G- Decorator\\SugarDecorator.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\SugarDecorator.cs",
+              "RelativeToolTip": "G- Decorator\\SugarDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:10:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "G- Decorator\\MilkDecorator.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\MilkDecorator.cs",
+              "RelativeToolTip": "G- Decorator\\MilkDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:09:18.969Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\F- Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "F- Adapter\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\F- Adapter\\Program.cs",
-              "RelativeToolTip": "F- Adapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "G- Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\G- Decorator\\Program.cs",
+              "RelativeToolTip": "G- Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T12:32:32.746Z",
+              "WhenOpened": "2024-12-09T13:08:51.77Z",
               "EditorCaption": ""
             }
           ]

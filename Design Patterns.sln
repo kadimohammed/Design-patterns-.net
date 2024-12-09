@@ -13,13 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D- Factory", "D- Factory\D-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E- Prototype", "E- Prototype\E- Prototype.csproj", "{9686D104-8D54-4F39-9E5E-336A11451CEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F- Adapter", "F- Adapter\F- Adapter.csproj", "{9403A1EA-7565-422E-BE4B-B77B79C74DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F- Adapter", "F- Adapter\F- Adapter.csproj", "{9403A1EA-7565-422E-BE4B-B77B79C74DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G- Decorator", "G- Decorator\G- Decorator.csproj", "{FFA78A3E-9F6B-4128-915B-75E536D8B96B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G- Decorator", "G- Decorator\G- Decorator.csproj", "{FFA78A3E-9F6B-4128-915B-75E536D8B96B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H- Composite", "H- Composite\H- Composite.csproj", "{FA4FBE4A-F05F-4793-BD93-650110DF78EB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I- Facade", "I- Facade\I- Facade.csproj", "{EB8B0E43-5098-44DF-922A-7DC046E8B8B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H-Facade", "H-Facade\H-Facade.csproj", "{B75C81FB-76EA-43AB-B837-DB958B226EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,14 +53,10 @@ Global
 		{FFA78A3E-9F6B-4128-915B-75E536D8B96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFA78A3E-9F6B-4128-915B-75E536D8B96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFA78A3E-9F6B-4128-915B-75E536D8B96B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FA4FBE4A-F05F-4793-BD93-650110DF78EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA4FBE4A-F05F-4793-BD93-650110DF78EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA4FBE4A-F05F-4793-BD93-650110DF78EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA4FBE4A-F05F-4793-BD93-650110DF78EB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB8B0E43-5098-44DF-922A-7DC046E8B8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB8B0E43-5098-44DF-922A-7DC046E8B8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB8B0E43-5098-44DF-922A-7DC046E8B8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB8B0E43-5098-44DF-922A-7DC046E8B8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75C81FB-76EA-43AB-B837-DB958B226EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75C81FB-76EA-43AB-B837-DB958B226EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75C81FB-76EA-43AB-B837-DB958B226EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75C81FB-76EA-43AB-B837-DB958B226EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

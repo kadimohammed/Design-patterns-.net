@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\bin\Debug\net8.0\H-Facade.exe
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\bin\Debug\net8.0\H-Facade.deps.json
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\bin\Debug\net8.0\H-Facade.runtimeconfig.json
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\bin\Debug\net8.0\H-Facade.dll
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\bin\Debug\net8.0\H-Facade.pdb
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.sourcelink.json
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.dll
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\refint\H-Facade.dll
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.pdb
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\H-Facade.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\Design-patterns-.net\H-Facade\obj\Debug\net8.0\ref\H-Facade.dll

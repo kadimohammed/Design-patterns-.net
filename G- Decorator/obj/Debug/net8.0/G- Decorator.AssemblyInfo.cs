@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G- Decorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9d86d6354776b3770e5fd0185bf6f5ec2a84bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3852a8d200b87de3f350ec39fdd1d0c53ef495")]
 [assembly: System.Reflection.AssemblyProductAttribute("G- Decorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G- Decorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

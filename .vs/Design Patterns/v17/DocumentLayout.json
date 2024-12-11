@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\i- strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|solutionrelative:i- strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A14035-AB44-4253-85D5-E6F0FBD64DA3}|K- Iterator\\K- Iterator.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\k- iterator\\bookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A14035-AB44-4253-85D5-E6F0FBD64DA3}|K- Iterator\\K- Iterator.csproj|solutionrelative:k- iterator\\bookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\i- strategy\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|solutionrelative:i- strategy\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\i- strategy\\pushnotificationmessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C296332-FCF3-496E-82D9-6986C10056EB}|I- Strategy\\I- Strategy.csproj|solutionrelative:i- strategy\\pushnotificationmessagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A14035-AB44-4253-85D5-E6F0FBD64DA3}|K- Iterator\\K- Iterator.csproj|c:\\users\\mo kadi\\desktop\\design-patterns-.net\\k- iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A14035-AB44-4253-85D5-E6F0FBD64DA3}|K- Iterator\\K- Iterator.csproj|solutionrelative:k- iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceMessage.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\ServiceMessage.cs",
-              "RelativeDocumentMoniker": "I- Strategy\\ServiceMessage.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\ServiceMessage.cs",
-              "RelativeToolTip": "I- Strategy\\ServiceMessage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\K- Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "K- Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\K- Iterator\\Program.cs",
+              "RelativeToolTip": "K- Iterator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T00:00:15.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PushNotificationMessageStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\PushNotificationMessageStrategy.cs",
-              "RelativeDocumentMoniker": "I- Strategy\\PushNotificationMessageStrategy.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\PushNotificationMessageStrategy.cs",
-              "RelativeToolTip": "I- Strategy\\PushNotificationMessageStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T23:59:41.583Z",
+              "WhenOpened": "2024-12-11T12:36:26.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\Program.cs",
-              "RelativeDocumentMoniker": "I- Strategy\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\I- Strategy\\Program.cs",
-              "RelativeToolTip": "I- Strategy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Title": "BookCollection.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\K- Iterator\\BookCollection.cs",
+              "RelativeDocumentMoniker": "K- Iterator\\BookCollection.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\Design-patterns-.net\\K- Iterator\\BookCollection.cs",
+              "RelativeToolTip": "K- Iterator\\BookCollection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T23:57:59.946Z",
+              "WhenOpened": "2024-12-11T12:36:18.637Z",
               "EditorCaption": ""
             }
           ]
